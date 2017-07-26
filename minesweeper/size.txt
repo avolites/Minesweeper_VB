@@ -1,0 +1,7 @@
+7085*8175
+10900*11990
+18530*11990
+
+mark cross on the wrong mine when lose
+when varible "allow" equals false all the cubes' picture will change the original state
+smile face
