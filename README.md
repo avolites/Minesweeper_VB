@@ -1,5 +1,7 @@
-# Minesweeper_VB
-
-This is a minesweeper game developed by Visual Basic.
-This game is just like Windows Minesweeper Game(winmine.exe prior to Win 7).
-I used the Win7's game UI, and winmine's menu options.
+# Minesweeper   
+This is the Visual Basic version of Minesweeper whitch is developed by Gaoxiang Liu.   
+## DOWNLOAD
+The folder "minesweeper" contains the source codes.   
+The file "minesweeper.exe" is the execuitable file(game) that can be run on Windows.   
+## HOW TO PLAY   
+Please refer to the Help menu.   
